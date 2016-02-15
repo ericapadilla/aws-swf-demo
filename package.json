@@ -10,7 +10,12 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bootstrap": "node lib/bootstrap"
+    "bootstrap": "node lib/bootstrap",
+    "verifyFlightDetails": "node lib/activities/verifyFlightDetails",
+    "processPayment": "node lib/activities/processPayment",
+    "emailBookingConfirmation": "node lib/activities/emailBookingConfirmation",
+    "decider": "node lib/decider",
+    "starter": "node lib/starter"
   },
   "repository": {
     "type": "git",
@@ -22,6 +27,10 @@
     "workflow"
   ],
   "author": "",
+  "contributors": [
+    "Erica Padilla <ezpadilla@voyagerinnovation.com>",
+    "Lorraine Lachica <lflachica@voyagerinnovation.com>"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ericapadilla/aws-swf-demo/issues"
