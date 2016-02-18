@@ -32,11 +32,11 @@ vim config.js
 ```
 npm run bootstrap
 ```
-(4) Run the decider
+(5) Run the decider
 ```
 npm run decider
 ```
-(5) Run the activities
+(6) Run the activities
 ```
 npm run verifyFlightDetails
 ```
@@ -46,7 +46,7 @@ npm run processPayment
 ```
 npm run emailBookingConfirmation
 ```
-(6) Start workflow execution
+(7) Start workflow execution
 ```
 npm run starter
 ```
