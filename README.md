@@ -5,10 +5,10 @@ The demo application aims to demonstrate the data exchange and interaction among
 
 ### Demo Workflow
 Follows the illustrated flight booking workflow below
-![Workflow](https://googledrive.com/host/0B07e7RS26I3TN1BjbHJHM3g5Z2M)
+![Workflow](./references/FlightBookingWorkflow.png)
 
 ### SWF Architecture
-![SWF](https://googledrive.com/host/0B07e7RS26I3Tc2Vkb2JGM3E5eWM)
+![SWF](./references/SWFArchitecture.png)
 
 ### Requirements
  * [node.js](http://nodejs.org/) >= 0.8
